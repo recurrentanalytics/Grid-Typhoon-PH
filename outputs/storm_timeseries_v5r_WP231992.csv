@@ -1,0 +1,16 @@
+storm_id,storm_name,year,t,n_track_points_used,n_failed_lines_cumulative,failed_line_share_cumulative,n_unserved_buses,unserved_bus_share,affected_population_proxy,affected_population_share_proxy,n_components,n_served_components,n_unserved_components,max_line_hazard_this_step
+WP231992,YVETTE,1992,0,1,0,0.0,0,0.0,0.0,0.0,1,1,0,0.0
+WP231992,YVETTE,1992,1,2,0,0.0,0,0.0,0.0,0.0,1,1,0,0.0
+WP231992,YVETTE,1992,2,3,0,0.0,0,0.0,0.0,0.0,1,1,0,0.0
+WP231992,YVETTE,1992,3,4,0,0.0,0,0.0,0.0,0.0,1,1,0,0.0
+WP231992,YVETTE,1992,4,5,0,0.0,0,0.0,0.0,0.0,1,1,0,0.0
+WP231992,YVETTE,1992,5,6,0,0.0,0,0.0,0.0,0.0,1,1,0,0.0
+WP231992,YVETTE,1992,6,7,0,0.0,0,0.0,0.0,0.0,1,1,0,0.0
+WP231992,YVETTE,1992,7,8,0,0.0,0,0.0,0.0,0.0,1,1,0,0.0
+WP231992,YVETTE,1992,8,9,0,0.0,0,0.0,0.0,0.0,1,1,0,0.0
+WP231992,YVETTE,1992,9,10,0,0.0,0,0.0,0.0,0.0,1,1,0,0.0
+WP231992,YVETTE,1992,10,11,0,0.0,0,0.0,0.0,0.0,1,1,0,0.0
+WP231992,YVETTE,1992,11,12,0,0.0,0,0.0,0.0,0.0,1,1,0,0.0
+WP231992,YVETTE,1992,12,13,0,0.0,0,0.0,0.0,0.0,1,1,0,0.0
+WP231992,YVETTE,1992,13,14,0,0.0,0,0.0,0.0,0.0,1,1,0,0.0
+WP231992,YVETTE,1992,14,15,0,0.0,0,0.0,0.0,0.0,1,1,0,0.0

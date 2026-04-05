@@ -1,0 +1,5 @@
+storm_id,storm_name,year,t,n_track_points_used,n_failed_lines_cumulative,failed_line_share_cumulative,n_failed_lines_new,n_unserved_buses,unserved_bus_share,affected_population_proxy,affected_population_share_proxy,n_components,n_served_components,n_unserved_components,max_line_hazard_this_step,mean_line_p_fail_this_step,max_line_p_fail_this_step
+WP061964,CORA,1964,0,1,0,0.0,0,0,0.0,0.0,0.0,1,1,0,0.0,5.017216468376421e-05,5.0172164683764205e-05
+WP061964,CORA,1964,1,2,0,0.0,0,0,0.0,0.0,0.0,1,1,0,0.0,5.017216468376421e-05,5.0172164683764205e-05
+WP061964,CORA,1964,2,3,0,0.0,0,0,0.0,0.0,0.0,1,1,0,0.034707147130449284,5.0725540974488025e-05,9.370443288737075e-05
+WP061964,CORA,1964,3,4,0,0.0,0,0,0.0,0.0,0.0,1,1,0,0.04822613399395124,5.2440644606007e-05,0.00011951733760100099

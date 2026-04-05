@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=65", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "kritis-ph"
+version = "0.1.0"
+description = "KRITIS Philippines typhoon × grid disruption screening (pipeline + notebook)"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas>=2.0",
+    "numpy>=1.26",
+    "matplotlib>=3.8",
+    "scipy>=1.11",
+    "networkx>=3.0",
+    "cartopy>=0.23",
+    "tropycal>=1.0",
+    "tqdm>=4.66",
+]
+
+[project.scripts]
+kritis-ph = "kritis_ph.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["kritis_ph*"]

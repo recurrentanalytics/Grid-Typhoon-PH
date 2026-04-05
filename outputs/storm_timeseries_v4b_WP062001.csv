@@ -1,0 +1,10 @@
+storm_id,storm_name,year,t,n_track_points_used,n_failed_lines_cumulative,failed_line_share_cumulative,n_unserved_buses,unserved_bus_share,affected_population_proxy,affected_population_share_proxy,n_components,max_line_hazard_this_step
+WP062001,UTOR,2001,0,1,0,0.0,0,0.0,0.0,0.0,1,0.0
+WP062001,UTOR,2001,1,2,0,0.0,0,0.0,0.0,0.0,1,0.0
+WP062001,UTOR,2001,2,3,0,0.0,0,0.0,0.0,0.0,1,0.0
+WP062001,UTOR,2001,3,4,0,0.0,0,0.0,0.0,0.0,1,0.08474977381983044
+WP062001,UTOR,2001,4,5,0,0.0,0,0.0,0.0,0.0,1,0.21989064163609925
+WP062001,UTOR,2001,5,6,0,0.0,0,0.0,0.0,0.0,1,0.21989064163609925
+WP062001,UTOR,2001,6,7,0,0.0,0,0.0,0.0,0.0,1,0.21989064163609925
+WP062001,UTOR,2001,7,8,0,0.0,0,0.0,0.0,0.0,1,0.21989064163609925
+WP062001,UTOR,2001,8,9,0,0.0,0,0.0,0.0,0.0,1,0.21989064163609925

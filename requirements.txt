@@ -1,0 +1,24 @@
+# KRITIS–Philippines — fresh venv (from this repo root):
+#   rm -rf .venv && python3 -m venv .venv && .venv/bin/pip install -U pip && .venv/bin/pip install -r requirements.txt
+# Editable package:  .venv/bin/pip install -e .
+#   CLI:  .venv/bin/python -m kritis_ph info | build | list-stages
+# Canonical notebook:  notebooks/KRITIS_PH_canonical_notebook_commented.ipynb
+#
+# Register kernel for Jupyter / Cursor (user + venv-local):
+#   .venv/bin/python -m ipykernel install --user --name=kritisph --display-name="KRITIS-PH .venv"
+#   .venv/bin/python -m ipykernel install --prefix=".venv" --name=kritisph --display-name="KRITIS-PH .venv"
+
+# tropycal's _version.py needs setuptools_scm; fallback uses pkg_resources (removed from setuptools>=82 wheels)
+setuptools>=65,<82
+setuptools-scm>=8.0
+
+openpyxl>=3.1.0
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+scipy>=1.11
+networkx>=3.0
+cartopy>=0.23
+tropycal>=1.0
+tqdm>=4.66
+ipykernel>=6.29

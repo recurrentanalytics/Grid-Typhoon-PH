@@ -1,0 +1,5 @@
+storm_id,storm_name,year,t,n_track_points_used,n_failed_lines_cumulative,failed_line_share_cumulative,n_unserved_buses,unserved_bus_share,affected_population_proxy,affected_population_share_proxy,n_components,max_line_hazard_this_step
+WP171949,PATRICIA,1949,0,1,0,0.0,0,0.0,0.0,0.0,1,0.0
+WP171949,PATRICIA,1949,1,2,0,0.0,0,0.0,0.0,0.0,1,0.0
+WP171949,PATRICIA,1949,2,3,0,0.0,0,0.0,0.0,0.0,1,0.0
+WP171949,PATRICIA,1949,3,4,0,0.0,0,0.0,0.0,0.0,1,0.0

@@ -1,0 +1,13 @@
+storm_id,storm_name,year,t,n_track_points_used,n_failed_lines_cumulative,failed_line_share_cumulative,n_unserved_buses,unserved_bus_share,affected_population_proxy,affected_population_share_proxy,n_components,max_line_hazard_this_step
+WP172013,USAGI,2013,0,1,0,0.0,0,0.0,0.0,0.0,1,0.0
+WP172013,USAGI,2013,1,2,0,0.0,0,0.0,0.0,0.0,1,0.0
+WP172013,USAGI,2013,2,3,0,0.0,0,0.0,0.0,0.0,1,0.0
+WP172013,USAGI,2013,3,4,0,0.0,0,0.0,0.0,0.0,1,0.0
+WP172013,USAGI,2013,4,5,0,0.0,0,0.0,0.0,0.0,1,0.0
+WP172013,USAGI,2013,5,6,0,0.0,0,0.0,0.0,0.0,1,0.0
+WP172013,USAGI,2013,6,7,0,0.0,0,0.0,0.0,0.0,1,0.0
+WP172013,USAGI,2013,7,8,0,0.0,0,0.0,0.0,0.0,1,0.0
+WP172013,USAGI,2013,8,9,0,0.0,0,0.0,0.0,0.0,1,0.0
+WP172013,USAGI,2013,9,10,0,0.0,0,0.0,0.0,0.0,1,0.0
+WP172013,USAGI,2013,10,11,0,0.0,0,0.0,0.0,0.0,1,0.0
+WP172013,USAGI,2013,11,12,0,0.0,0,0.0,0.0,0.0,1,0.0

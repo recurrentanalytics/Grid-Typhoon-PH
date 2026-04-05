@@ -1,0 +1,11 @@
+storm_id,storm_name,year,t,n_track_points_used,n_failed_lines_cumulative,failed_line_share_cumulative,n_unserved_buses,unserved_bus_share,affected_population_proxy,affected_population_share_proxy,n_components,max_line_hazard_this_step
+WP081989,GORDON,1989,0,1,0,0.0,0,0.0,0.0,0.0,1,0.0
+WP081989,GORDON,1989,1,2,0,0.0,0,0.0,0.0,0.0,1,0.0
+WP081989,GORDON,1989,2,3,0,0.0,0,0.0,0.0,0.0,1,0.0
+WP081989,GORDON,1989,3,4,0,0.0,0,0.0,0.0,0.0,1,0.0
+WP081989,GORDON,1989,4,5,0,0.0,0,0.0,0.0,0.0,1,0.21968196462714126
+WP081989,GORDON,1989,5,6,0,0.0,0,0.0,0.0,0.0,1,0.28760897754914366
+WP081989,GORDON,1989,6,7,0,0.0,0,0.0,0.0,0.0,1,0.37047386002229
+WP081989,GORDON,1989,7,8,0,0.0,0,0.0,0.0,0.0,1,0.37047386002229
+WP081989,GORDON,1989,8,9,0,0.0,0,0.0,0.0,0.0,1,0.37047386002229
+WP081989,GORDON,1989,9,10,0,0.0,0,0.0,0.0,0.0,1,0.37047386002229

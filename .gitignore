@@ -1,0 +1,24 @@
+.venv/
+__pycache__/
+
+# Nested grid benchmark clone (separate repo; see README layout)
+PyPSA-PH/
+
+# Editor settings (local)
+.vscode/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.ipynb_checkpoints/
+
+# Regenerable pipeline / notebook cache (keep directory layout if needed)
+outputs/cache/
+outputs/runs/
+
+# WorldPop 1 km grid (large third-party file; place per README)
+data/worldpop_ph_2020_1km/
+
+# Heavy media outputs (regenerable from the notebook)
+outputs/**/*.gif
+outputs/**/*.mp4
