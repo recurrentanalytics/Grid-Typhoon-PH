@@ -1,0 +1,9 @@
+storm_id,storm_name,year,t,n_track_points_used,n_failed_lines_cumulative,failed_line_share_cumulative,n_unserved_buses,unserved_bus_share,affected_population_proxy,affected_population_share_proxy,n_components,max_line_hazard_this_step
+WP331971,HESTER,1971,0,1,0,0.0,0,0.0,0.0,0.0,1,0.04240300122739236
+WP331971,HESTER,1971,1,2,0,0.0,0,0.0,0.0,0.0,1,0.28680753480774707
+WP331971,HESTER,1971,2,3,0,0.0,0,0.0,0.0,0.0,1,0.28680753480774707
+WP331971,HESTER,1971,3,4,0,0.0,0,0.0,0.0,0.0,1,0.28680753480774707
+WP331971,HESTER,1971,4,5,0,0.0,0,0.0,0.0,0.0,1,0.28680753480774707
+WP331971,HESTER,1971,5,6,0,0.0,0,0.0,0.0,0.0,1,0.28680753480774707
+WP331971,HESTER,1971,6,7,0,0.0,0,0.0,0.0,0.0,1,0.28680753480774707
+WP331971,HESTER,1971,7,8,0,0.0,0,0.0,0.0,0.0,1,0.28680753480774707

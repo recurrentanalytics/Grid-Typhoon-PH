@@ -1,0 +1,11 @@
+storm_id,storm_name,year,t,n_track_points_used,n_failed_lines_cumulative,failed_line_share_cumulative,n_unserved_buses,unserved_bus_share,affected_population_proxy,affected_population_share_proxy,n_components,max_line_hazard_this_step
+WP131963,FAYE,1963,0,1,0,0.0,0,0.0,0.0,0.0,1,0.0
+WP131963,FAYE,1963,1,2,0,0.0,0,0.0,0.0,0.0,1,0.0
+WP131963,FAYE,1963,2,3,0,0.0,0,0.0,0.0,0.0,1,0.0
+WP131963,FAYE,1963,3,4,0,0.0,0,0.0,0.0,0.0,1,0.0
+WP131963,FAYE,1963,4,5,0,0.0,0,0.0,0.0,0.0,1,0.056663542672883836
+WP131963,FAYE,1963,5,6,0,0.0,0,0.0,0.0,0.0,1,0.079599745589948
+WP131963,FAYE,1963,6,7,0,0.0,0,0.0,0.0,0.0,1,0.079599745589948
+WP131963,FAYE,1963,7,8,0,0.0,0,0.0,0.0,0.0,1,0.079599745589948
+WP131963,FAYE,1963,8,9,0,0.0,0,0.0,0.0,0.0,1,0.079599745589948
+WP131963,FAYE,1963,9,10,0,0.0,0,0.0,0.0,0.0,1,0.079599745589948

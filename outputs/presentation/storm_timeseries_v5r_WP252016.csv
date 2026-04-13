@@ -1,0 +1,10 @@
+storm_id,storm_name,year,t,n_track_points_used,n_failed_lines_cumulative,failed_line_share_cumulative,n_unserved_buses,unserved_bus_share,affected_population_proxy,affected_population_share_proxy,n_components,n_served_components,n_unserved_components,max_line_hazard_this_step
+WP252016,HAIMA,2016,0,1,0,0.0,0,0.0,0.0,0.0,1,1,0,0.0
+WP252016,HAIMA,2016,1,2,0,0.0,0,0.0,0.0,0.0,1,1,0,0.0
+WP252016,HAIMA,2016,2,3,0,0.0,0,0.0,0.0,0.0,1,1,0,0.0
+WP252016,HAIMA,2016,3,4,0,0.0,0,0.0,0.0,0.0,1,1,0,0.10029289052148284
+WP252016,HAIMA,2016,4,5,0,0.0,0,0.0,0.0,0.0,1,1,0,0.4848058739081412
+WP252016,HAIMA,2016,5,6,0,0.0,0,0.0,0.0,0.0,1,1,0,0.4848058739081412
+WP252016,HAIMA,2016,6,7,0,0.0,0,0.0,0.0,0.0,1,1,0,0.4848058739081412
+WP252016,HAIMA,2016,7,8,0,0.0,0,0.0,0.0,0.0,1,1,0,0.4848058739081412
+WP252016,HAIMA,2016,8,9,0,0.0,0,0.0,0.0,0.0,1,1,0,0.4848058739081412

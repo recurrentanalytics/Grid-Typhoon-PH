@@ -1,0 +1,4 @@
+storm_id,storm_name,year,t,n_track_points_used,n_failed_lines_cumulative,failed_line_share_cumulative,n_failed_lines_new,n_unserved_buses,unserved_bus_share,affected_population_proxy,affected_population_share_proxy,n_components,n_served_components,n_unserved_components,max_line_hazard_this_step,mean_line_p_fail_this_step,max_line_p_fail_this_step
+WP131958,GRACE,1958,0,1,0,0.0,0,0,0.0,0.0,0.0,1,1,0,0.0,5.017216468376421e-05,5.0172164683764205e-05
+WP131958,GRACE,1958,1,2,0,0.0,0,0,0.0,0.0,0.0,1,1,0,0.0,5.017216468376421e-05,5.0172164683764205e-05
+WP131958,GRACE,1958,2,3,0,0.0,0,0,0.0,0.0,0.0,1,1,0,0.0,5.017216468376421e-05,5.0172164683764205e-05

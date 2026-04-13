@@ -1,0 +1,11 @@
+storm_id,storm_name,year,t,n_track_points_used,n_failed_lines_cumulative,failed_line_share_cumulative,n_unserved_buses,unserved_bus_share,affected_population_proxy,affected_population_share_proxy,n_components,max_line_hazard_this_step
+WP121964,IDA,1964,0,1,0,0.0,0,0.0,0.0,0.0,1,0.0
+WP121964,IDA,1964,1,2,0,0.0,0,0.0,0.0,0.0,1,0.0
+WP121964,IDA,1964,2,3,0,0.0,0,0.0,0.0,0.0,1,0.0
+WP121964,IDA,1964,3,4,0,0.0,0,0.0,0.0,0.0,1,0.0
+WP121964,IDA,1964,4,5,0,0.0,0,0.0,0.0,0.0,1,0.3341797506091218
+WP121964,IDA,1964,5,6,0,0.0,0,0.0,0.0,0.0,1,0.3341797506091218
+WP121964,IDA,1964,6,7,0,0.0,0,0.0,0.0,0.0,1,0.3341797506091218
+WP121964,IDA,1964,7,8,0,0.0,0,0.0,0.0,0.0,1,0.3341797506091218
+WP121964,IDA,1964,8,9,0,0.0,0,0.0,0.0,0.0,1,0.3341797506091218
+WP121964,IDA,1964,9,10,0,0.0,0,0.0,0.0,0.0,1,0.3341797506091218
