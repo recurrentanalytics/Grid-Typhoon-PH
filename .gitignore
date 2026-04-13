@@ -1,6 +1,11 @@
 .venv/
 __pycache__/
 
+.DS_Store
+
+# Local WorldPop copy at repo root of data/ (README path is data/worldpop_ph_2020_1km/...)
+data/worldpop_ph_2020_1km.csv
+
 # Nested grid benchmark clone (separate repo; see README layout)
 PyPSA-PH/
 
